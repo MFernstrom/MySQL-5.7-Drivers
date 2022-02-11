@@ -1,2 +1,7 @@
 # MySQL-5.7-Drivers
-Drivers/Connectors for MySQL 5.7+
+
+Windows and Linux drivers/connectors for MySQL 5.7
+
+DLL and SO files.
+
+Copied here for convenience.
